@@ -63,8 +63,8 @@ Alternatively, place `AI_Human.csv` in your Google Drive root and mount Drive in
 └── reports/
     ├── project_plan.md
     ├── ethical_considerations.md
-    ├── final_report.pdf                # TODO
-    └── presentation.pdf                # TODO
+    ├── final_report.pdf                
+    └── presentation.pdf                
 ```
 
 ---
