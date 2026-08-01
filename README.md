@@ -174,7 +174,7 @@ measured performance rests on properties of this particular dataset.
 | `04_error_analysis.ipynb` — error analysis | Both |
 | `reports/ethical_considerations.md` | Victoria |
 | README, project plan | Aditi |
-| Final report and presentation | Both |
+| Final report and presentation | Aditi |
 
 ---
 
